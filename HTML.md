@@ -16,4 +16,11 @@ Wie man hier schön entnehmen kann ist HTML eine Sprache zur Strukturierung von 
 </body>  
 </html>
 ````
-Wir sehen dass HTML aus verschiedenen Elementen besteht, die mit spitzen Klammern ausgezeichnet werden. Dabei gibt es immer ein öffnendes Element und ein schließendes. Die beiden unterscheiden sich durch ein Slash-Symbol, z.B. öffnend: `<title>` und schließend `</title>`. Weitherhin sehen wir das sich Elemente verschachteln lassen. So steht das `<h1>`-Element und das `<p>`-Element innerhalb des `<body>`-Elements.Außerdem sehen wir das es ein `<head>`-Element und ein `<body>`-Element gibt. Wir haben gelernt, dass HTML Metadaten speichern kann. Diese kommen innerhalb des `<head>`-Element unter. Metadaten sind Daten über Daten, z.B. 
+Wir sehen dass HTML aus verschiedenen Elementen besteht, die mit spitzen Klammern ausgezeichnet werden. Dabei gibt es immer ein öffnendes Element und ein schließendes. Die beiden unterscheiden sich durch ein Slash-Symbol, z.B. öffnend: `<title>` und schließend `</title>`. Weitherhin sehen wir das sich Elemente verschachteln lassen. So steht das `<h1>`-Element und das `<p>`-Element innerhalb des `<body>`-Elements.Außerdem sehen wir das es ein `<head>`-Element und ein `<body>`-Element gibt. Wir haben gelernt, dass HTML Metadaten speichern kann. Diese kommen innerhalb des `<head>`-Element unter. Metadaten sind Daten über Daten, z.B. der Titel der Website welcher im `<title>` -Element festgelegt wird.
+
+# Attribute
+
+HTML-Elemente besitzen Attribute. Attribute bieten die Möglichkeit HTML-Elemente anzupassen. 
+
+
+# Integration von CSS und JS

@@ -97,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handwerkszeug eines Webdevs.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -231,15 +231,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f5a88286a8ebf1",
+  "active": "c0367a703d674de5",
   "lastOpenFiles": [
+    "Pasted image 20240213151841.png",
+    "HTML.md",
+    "Handwerkszeug eines Webdevs.md",
     "Ressourcen für Web-Development.md",
     "README.md",
     "Untitled",
     "Textdokument (neu).txt",
     "Vorwort und Inhalt.md",
-    "Handwerkszeug eines Webdevs.md",
-    "HTML.md",
     "CSS.md",
     "Web-Design.md",
     "Programmiertipps.md",
