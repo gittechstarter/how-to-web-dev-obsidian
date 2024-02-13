@@ -1,0 +1,1 @@
+Dafür nutzt man meist Methodiken wie Domain-Driven Design
