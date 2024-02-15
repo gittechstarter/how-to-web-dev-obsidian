@@ -8,10 +8,10 @@ Falls es nötig wird Informationen auf der Website zu aktualisieren, muss man ei
 
 # Frontend und Backend
 
-Es wird beim Webdevelopment in zwei Bereiche unterschieden: Frontend und Backend. Das Frontend bezeichnet die Oberfläche, mit der der Nutzer interagiert. Das Backend stellt Daten bereit, die dann im Frontend dargestellt werden oder z.B. für das Login genutzt werden können. Das Backend besteht daher i.d.R. mindestens aus einer Datenbank, kann aber auch sehr viel mehr tun.HTML und CSS sind Frontend-Technologien, während JS für beides eingesetzt werden kann.
+Es wird beim Webdevelopment in zwei Bereiche unterschieden: Frontend und Backend. Das Frontend bezeichnet die Oberfläche, mit der der Nutzer interagiert. Das Backend stellt Daten bereit, die dann im Frontend dargestellt werden oder z.B. für das Login genutzt werden können. Das Backend besteht daher i.d.R. mindestens aus einer Datenbank, kann aber auch sehr viel mehr tun. HTML und CSS sind Frontend-Technologien, während JS für beides eingesetzt werden kann.
 # Web-Frameworks
 
-Diese grundlegenden Technologien wurden im Laufe der Zeit durch verschiedene Frameworks erweitert. Diese ermöglichen erweiterte Funktionalitäten oder vereinfachen den Entwicklungsprozess. Es wird in Frontend- (z.B. Bootstrap)und Backend-Frameworks (z.B. React) unterschieden. 
+Diese grundlegenden Technologien wurden im Laufe der Zeit durch verschiedene Frameworks erweitert. Diese ermöglichen erweiterte Funktionalitäten oder vereinfachen den Entwicklungsprozess. Es wird in Frontend- (z.B. React)und Backend-Frameworks (z.B. Express.js) unterschieden. 
 
 
 # Dev-Ops

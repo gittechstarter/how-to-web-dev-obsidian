@@ -25,8 +25,11 @@ Sicherlich habt ihr schon vor dem Problem gestanden: Ihr habt einen Code und wis
 
 Aber wie lese ich Referenzen? Man nehme an ich möchte die fetch-Funktion von JavaScript nutzen. Dann kann in den Mozilla Dev Docs schauen und findet folgenden Eintrag:
 
-![[Pasted image 20240213140013.png]]Hier sieht man exemplarisch wie Referenzen funktionieren. Wir haben eine kurze Beschreibung der Funktion und können verstehen ob sie für unseren Use-Case wertvoll ist. Danach folgen meist Parameter der Funkion:
-![[Pasted image 20240213140246.png]]
+![[screenshots/Pasted image 20240213140013.png]]Hier sieht man exemplarisch wie Referenzen funktionieren. Wir haben eine kurze Beschreibung der Funktion und können verstehen ob sie für unseren Use-Case wertvoll ist. Danach folgen meist Parameter der Funkion:
+
+![[screenshots/Pasted image 20240213140246.png]]
+
 Hier können wir sehen, was wir an eine Funktion übergeben können und was die einzelnen Parameter bewirken. Zusätzlich sehen wir welche Parameter nötig und welche optional sind.
 Dann gibt es meist noch Informationen über Rückgabe-Werte und mögliche Fehler:
-![[Pasted image 20240213140457.png]]Zusätzlich gibt es für die fetch-API noch eine komplette [Dokumentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), die uns die Verwendung erklärt. Mit diesen Materialien sind wir dann im Stande die fetch-API in unserem Code zu nutzen
+
+![[screenshots/Pasted image 20240213140457.png]]Zusätzlich gibt es für die fetch-API noch eine komplette [Dokumentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), die uns die Verwendung erklärt. Mit diesen Materialien sind wir dann im Stande die fetch-API in unserem Code zu nutzen.

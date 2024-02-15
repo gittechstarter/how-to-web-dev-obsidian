@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fa9f8e1a4a0c013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f2afe18d996ac451",
             "type": "leaf",
             "state": {
@@ -97,14 +85,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Vorwort und Inhalt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "908b1dcfbd012639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vorwort und Inhalt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1da1cbe9fb26ecb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CSS.md"
               }
             }
           }
@@ -231,23 +243,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0367a703d674de5",
+  "active": "1da1cbe9fb26ecb3",
   "lastOpenFiles": [
-    "Pasted image 20240213151841.png",
     "HTML.md",
-    "Handwerkszeug eines Webdevs.md",
-    "Ressourcen für Web-Development.md",
-    "README.md",
-    "Untitled",
-    "Textdokument (neu).txt",
-    "Vorwort und Inhalt.md",
     "CSS.md",
-    "Web-Design.md",
+    "Handwerkszeug eines Webdevs.md",
+    "Dev-Umgebung.md",
+    "Vorwort und Inhalt.md",
+    "Programmierkonzepte.md",
     "Programmiertipps.md",
-    "Pasted image 20240213140246.png",
-    "Pasted image 20240213140457.png",
-    "Pasted image 20240213140013.png",
+    "README.md",
+    "Ressourcen für Web-Development.md",
+    "Web-Design.md",
+    "screenshots",
     "Welcome.md",
+    "screenshots/Pasted image 20240213151841.png",
+    "Textdokument (neu).txt",
+    "screenshots/Pasted image 20240213140246.png",
+    "screenshots/Pasted image 20240213140457.png",
+    "screenshots/Pasted image 20240213140013.png",
     "create a link.md"
   ]
 }
