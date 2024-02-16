@@ -97,18 +97,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vorwort und Inhalt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1da1cbe9fb26ecb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CSS.md",
                 "mode": "source",
                 "source": false
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -243,15 +231,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1da1cbe9fb26ecb3",
+  "active": "908b1dcfbd012639",
   "lastOpenFiles": [
-    "HTML.md",
+    "Vorwort und Inhalt.md",
+    "[Ressourcen.md",
     "CSS.md",
+    "HTML.md",
+    "screenshots/DOM_grafik.jpg",
+    "DOM.jpg",
+    "Unbenanntes Diagramm.jpg",
+    "Programmiertipps.md",
     "Handwerkszeug eines Webdevs.md",
     "Dev-Umgebung.md",
-    "Vorwort und Inhalt.md",
     "Programmierkonzepte.md",
-    "Programmiertipps.md",
     "README.md",
     "Ressourcen für Web-Development.md",
     "Web-Design.md",
