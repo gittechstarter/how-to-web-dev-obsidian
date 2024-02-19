@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dev-Umgebung.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dev-Umgebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dev-Umgebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dev-Umgebung.md"
               }
             }
           }
@@ -233,20 +233,20 @@
   },
   "active": "908b1dcfbd012639",
   "lastOpenFiles": [
-    "CSS.md",
+    "Programmierkonzepte.md",
+    "Web-Design.md",
     "Vorwort und Inhalt.md",
-    "[Ressourcen.md",
+    "Ressourcen für Web-Development.md",
+    "Programmiertipps.md",
     "HTML.md",
+    "Handwerkszeug eines Webdevs.md",
+    "Dev-Umgebung.md",
+    "CSS.md",
+    "README.md",
+    "[Ressourcen.md",
     "screenshots/DOM_grafik.jpg",
     "DOM.jpg",
     "Unbenanntes Diagramm.jpg",
-    "Programmiertipps.md",
-    "Handwerkszeug eines Webdevs.md",
-    "Dev-Umgebung.md",
-    "Programmierkonzepte.md",
-    "README.md",
-    "Ressourcen für Web-Development.md",
-    "Web-Design.md",
     "screenshots",
     "Welcome.md",
     "screenshots/Pasted image 20240213151841.png",

@@ -142,16 +142,22 @@ Allerdings haben Klassen- und Attribut-Selektoren sowie Pseudo-Klassen  die selb
 Manche CSS-Eigenschaften werden von Eltern-Elementen im DOM an Kind-Elemente weitergegeben und andere nicht. Zum Beispiel vererbt dich die Farbgebung von Elementen an ihre Kind-Elemente. Dies kann geändert werden, indem diesen Kind-Elementen ihre eigene Farbe  zugewiesen wird (Spezifizität).
 # Layout-Modelle
 
-
+In CSS gibt es verschiedene Layout-Modelle, nach denen HTML-Elemente auf einer Website angezeigt werden können. Dabei unterscheiden sich die Modelle in ihrer Komplexität und des daraus resultierenden Layouts. Layout-Modelle können innerhalb einer Website kombiniert werden, indem man HTML-Elemente mit Hilfe von einem `<div>`-Element gruppiert und diesen dann ein Layout zuweist.
 
 ## Box-Modell
 
+Das Box-Modell ist das klassische Layout-Modell. Dabei kann man sich vorstellen, dass alle HTML-Elemente von einer Box umgeben sind.  Jede Box besitzt einen Content-Bereich, einen Padding-Bereich, einen Border-Bereich und einen Margin-Bereich. Das Aussehen von Inhalt kann dann über diese Parameter angepasst werden. Mehr dazu in der [MDN-Referenz](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model).
+
 ## Grid 
 
+Das Grid-Modell ermöglicht es HTML-Elemente anhand eines Rasters auszurichten. D.h. die Website wird, ähnlich einer Tabelle, in Zeilen und Spalten unterteilt. Elemente können dann anhand dieser positioniert werden. Außerdem ermöglicht es das Grid-Layout, dass sich HTML-Elemente überlagern können. Dies wird mit dem z-Index erreicht. Mehr dazu in der [MDN-Referenz](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout#layering_items_with_z-index).
 ## Flexbox
+
+Flexbox ermöglicht es HTML-Elemente in einer Reihe oder in einem Stapel abzubilden. Dafür nutzt das Flexbox entweder eine Spalten- oder Zeilen-Axe anhand derer die HTML-Elemente ausgerichtet werden. Im Unterschied zum Grid-Layout, werden Elemente nicht innerhalb einer Tabellen-Struktur ausgerichtet, sondern entweder anhand von Zeilen oder Spalten. Außerdem können Elemente sich nicht überlagern. Mehr dazu in der [MDN-Referenz](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+
 # Media-Queries
 
-Mit Media-Queries lassen sich CSS Befehle an verschiedene Ausgabegeräte anpassen.
+Mit Media-Queries lassen sich CSS Befehle an verschiedene Ausgabegeräte anpassen. D.h. abhängig von dem jeweiligen Ausgabegerät können Elemente anders positioniert werden. Mehr dazu in der [MDN-Referenz](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries).
 
 # Animationen
 
